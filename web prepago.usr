@@ -1,0 +1,111 @@
+[General]
+Type=Tulip
+RunType=ActiveScript
+DefaultCfg=default.cfg
+DefaultRunLogic=default.usp
+ParamRightBrace=>
+ParamLeftBrace=<
+NewFunctionHeader=1
+MinorVersion=0
+MajorVersion=6	
+DevelopTool=AQT
+
+[Actions]
+Action0=Action0\Script.mts
+Login=Action5\Script.mts
+Dashboard=Action6\Script.mts
+Bolsas=Action7\Script.mts
+Compra Bolsa Datos=Action8\Script.mts
+Traspaso num no Entel=Action10\Script.mts
+Reclamos=Action12\Script.mts
+Mi tarifa=Action13\Script.mts
+Mi equipo=Action14\Script.mts
+Beneficios y Cartola Historica=Action15\Script.mts
+Logout=Action16\Script.mts
+Redes y Campos Recargas=Action17\Script.mts
+Beneficios Recarga con Puntos=Action19\Script.mts
+Beneficios Canje Bolsas=Action20\Script.mts
+Traspaso de Saldo=Action22\Script.mts
+Action23=Action23\Script.mts
+
+[VuserProfiles]
+Profiles=Default Profile
+
+[CfgFiles]
+Default Profile=default.cfg
+
+[RunLogicFiles]
+Default Profile=default.usp
+
+[Rendezvous]
+
+[Transactions]
+
+[ActiveScript]
+Lang=none
+
+[TulipInfo]
+ProductName=Micro Focus Unified Functional Testing
+Version=14.51
+
+[TulipAddins]
+Database=
+File Content=
+Insight=
+Windows Applications=
+TEA=
+Web=
+XML=
+
+[ExtraFiles]
+Test.tsp=
+Default.xls=
+Parameters.mtr=
+Action0\Script.mts=
+Action0\Resource.mtr=
+Action0\ObjectRepository.bdb=
+Action5\Script.mts=
+Action5\Resource.mtr=
+Action5\ObjectRepository.bdb=
+Action6\Script.mts=
+Action6\Resource.mtr=
+Action6\ObjectRepository.bdb=
+Action7\Script.mts=
+Action7\Resource.mtr=
+Action7\ObjectRepository.bdb=
+Action8\Script.mts=
+Action8\Resource.mtr=
+Action8\ObjectRepository.bdb=
+Action10\Script.mts=
+Action10\Resource.mtr=
+Action10\ObjectRepository.bdb=
+Action12\Script.mts=
+Action12\Resource.mtr=
+Action12\ObjectRepository.bdb=
+Action13\Script.mts=
+Action13\Resource.mtr=
+Action13\ObjectRepository.bdb=
+Action14\Script.mts=
+Action14\Resource.mtr=
+Action14\ObjectRepository.bdb=
+Action15\Script.mts=
+Action15\Resource.mtr=
+Action15\ObjectRepository.bdb=
+Action16\Script.mts=
+Action16\Resource.mtr=
+Action16\ObjectRepository.bdb=
+Action17\Script.mts=
+Action17\Resource.mtr=
+Action17\ObjectRepository.bdb=
+Action19\Script.mts=
+Action19\Resource.mtr=
+Action19\ObjectRepository.bdb=
+Action20\Script.mts=
+Action20\Resource.mtr=
+Action20\ObjectRepository.bdb=
+Action22\Script.mts=
+Action22\Resource.mtr=
+Action22\ObjectRepository.bdb=
+Action23\Script.mts=
+Action23\Resource.mtr=
+Action23\ObjectRepository.bdb=
